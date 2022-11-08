@@ -1,0 +1,28 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  width: 600px;
+  border: 2px solid black;
+}
+.code {
+  width: 500px;
+  height: 280px;
+  color: white;
+  background-color: grey;
+  margin-left: 70px;
+}
+
+h2 {
+  display: inline;
+  font-size: 17px;
+}
+
+textarea {
+  width: 500px;
+  height: 300px;
+  background-color: grey;
+  color: white;
+  margin-left: 55px;
+}
